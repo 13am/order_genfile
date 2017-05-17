@@ -1,0 +1,12 @@
+.*
+!/.gitignore
+*.pyc
+*.pyo
+*~
+*.bam
+*.bai
+*.bai
+*.vcf
+*.gz.tbi
+
+#ignored large files (size > 500k)
